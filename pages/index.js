@@ -16,8 +16,8 @@ export default function Home() {
         <Header title="Next.js " />
         <hr />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+英文不太認識我，我也不太愛他，我們誰也不理誰，管他東西南北，愛喝涼水喝涼水。
+   
         </p>
         <FeedbackForm />
         <JokeBlock />
